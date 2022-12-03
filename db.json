@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Edwinna class",
+      "content": "This is an example!"
+    },
+    {
+      "id": 2,
+      "title": "Edwinna class",
+      "content": "go go ma men!"
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "Edwinna class",
+      "content": "Rada safi!",
+      "id": 4
+    }
+  ]
+}
